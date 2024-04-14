@@ -1,8 +1,4 @@
 
-
-
-
-
 Sure, here's a README explaining the HTML, JavaScript files, and the concepts learned in them:
 
 ---
